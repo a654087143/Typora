@@ -6,7 +6,7 @@
 
   2、二次封装的antd组件未抽离成独立组件库
 
-  ![image-20200714220758853](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200714220758853.png)
+  ![image-20200714220758853](E:\东西\微服务\东西\React\React项目结构\第一代React项目结构.assets\image-20200714220758853.png)
 
 * <a href="E:\东西\微服务\东西\React项目结构\babel\babel之配置文件.babelrc.md">.babelrc</a>
 
