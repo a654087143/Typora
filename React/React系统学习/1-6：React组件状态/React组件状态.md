@@ -13,10 +13,12 @@
 #### 1.1 动态返回当前时间 （错误示范）
 
 * 每秒调用一次类组件
+  
   * ![image-20200804230455938](E:\东西\微服务\东西\React\React系统学习\1-6：React组件状态\Untitled.assets\image-20200804230455938.png)
 * 以为拿到最新状态时间后，给到 render 渲染出来。
-  * ![image-20200804230603810](E:\东西\微服务\东西\React\React系统学习\1-6：React组件状态\Untitled.assets\image-20200804230603810.png)
-
+  
+* ![image-20200804230603810](E:\东西\微服务\东西\React\React系统学习\1-6：React组件状态\Untitled.assets\image-20200804230603810.png)
+  
 * ##### 时间根本没动态改变
 
   * ![image-20200804230824767](E:\东西\微服务\东西\React\React系统学习\1-6：React组件状态\Untitled.assets\image-20200804230824767.png)
@@ -71,6 +73,12 @@
   - ![image-20200804235410617](E:\东西\微服务\东西\React\React系统学习\1-6：React组件状态\Untitled.assets\image-20200804235410617.png)
 
 
+
+### props和state区别
+
+![image-20200913130522117](E:\东西\微服务\东西\React\React系统学习\1-6：React组件状态\React组件状态.assets\image-20200913130522117.png)
+
+![image-20200913130439115](E:\东西\微服务\东西\React\React系统学习\1-6：React组件状态\React组件状态.assets\image-20200913130439115.png)
 
 
 
